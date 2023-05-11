@@ -17,4 +17,4 @@
 ![Project design](https://github.com/Piistachyoo/I2C-Communication-Between-3-PIC18F/blob/main/Project%20design%20screenshot.png?raw=true)
 
 ## Real-time simulation:
-![Real-time simulation](https://github.com/Piistachyoo/I2C-Communication-Between-3-PIC18F/blob/main/Real-time%20screenshot.png?raw=true)
+[I2C Communication Between 3 PIC18F (Proteus Simulation) - YouTube](https://www.youtube.com/watch?v=jmDqVv1Oj8w)
